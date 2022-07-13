@@ -1,0 +1,19 @@
+{
+  "name": "ex_node_donovan",
+  "version": "1.0.0",
+  "description": "Exercice node Donovan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSl4sh/Exercice-Node.git"
+  },
+  "author": "Donovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSl4sh/Exercice-Node/issues"
+  },
+  "homepage": "https://github.com/MSl4sh/Exercice-Node#readme"
+}
